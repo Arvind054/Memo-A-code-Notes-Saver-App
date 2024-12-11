@@ -1,0 +1,11 @@
+.navBar{
+    width: 40vw;
+    height: 10vh;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    }
+    .navComponents{
+         padding: 0.5rem;
+    }

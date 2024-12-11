@@ -1,0 +1,16 @@
+.memosContainer{
+    height: 75vh;
+}
+.memosContainer input{
+    width: 85%;
+    height: 7%;
+    padding: 0.5rem;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.memosDisplay{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    padding: 0.5rem;
+}

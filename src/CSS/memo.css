@@ -1,0 +1,27 @@
+.memoContainer{
+    margin: 10px;
+    border: 2px solid rgb(70, 67, 67);
+    width: 40rem;
+    height: 8rem;
+    border-radius: 10px;
+    text-align: start;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.memoContainer h2{
+    font-size: 25px;
+    text-align: start;
+    margin: 10px 20px;
+}
+.memoContainer p{
+    margin: 10px 20px;
+    color: rgb(236, 236, 231);
+}
+.memoActions{
+    margin: 0.5rem;
+}
+.actionBtns{
+    margin: 0.1rem;
+    padding:0.3rem 0.7rem ;
+}

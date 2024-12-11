@@ -1,0 +1,28 @@
+.inputComponent{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 0.8rem;
+}
+.inputComponent input{
+    width: 60%;
+    height: 100%;
+    padding: 0.5rem;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inputComponent button{
+    padding: 0.5rem 0.7rem;
+    background-color: black;
+}
+
+.mainInputView{
+    width: 40vw;
+}
+.mainInputView textarea{
+    border-radius: 10px;
+    padding: 0.5rem;
+    height: 65vh;
+    width: 40vw;
+    background-color: black;
+    }
