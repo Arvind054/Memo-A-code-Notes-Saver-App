@@ -1,6 +1,5 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './App.css'
-import Router from 'express/lib/router';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Memos from './components/Memos';
